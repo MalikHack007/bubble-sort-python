@@ -44,7 +44,7 @@ while userInput != "Done":
     except ValueError:
         break
 
-#create a list of dictionaries, each containing an id and a value that the user entered
+#create one list of dictionaries, each containing an id and a value that the user entered
 
 dictionary_lst = []
 id = 0
